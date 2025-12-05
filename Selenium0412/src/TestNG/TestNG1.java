@@ -11,5 +11,7 @@ public class TestNG1
 		System.out.println("Mokashi");
 		System.out.println("Shinde");
 		System.out.println("Akshay");
+		
+		System.out.println("Akshay&Nikita");
 	}
 }
