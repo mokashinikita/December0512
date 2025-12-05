@@ -8,5 +8,8 @@ public class TestNG1
 	public void a()
 	{
 		System.out.println("Nikita");
+		System.out.println("Mokashi");
+		System.out.println("Shinde");
+		System.out.println("Akshay");
 	}
 }
